@@ -1,14 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package Clases.Lists;
 import Clases.Nodes.DoubleNode;
 import javax.swing.JTextArea;
-/**
- *
- * @author andre
- */
+
 public class DoublyLinkedList {
     private DoubleNode head;
     private DoubleNode lastNode;

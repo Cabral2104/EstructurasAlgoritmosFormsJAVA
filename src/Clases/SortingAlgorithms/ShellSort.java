@@ -1,13 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package Clases.SortingAlgorithms;
 import javax.swing.*;
-/**
- *
- * @author andre
- */
+
 public class ShellSort {
     private void printArray(int[] array, JTextArea textArea) {
         for (int num : array) {

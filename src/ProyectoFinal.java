@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 import Clases.SortingAlgorithms.*;
 import Clases.Graph.Edge;
 import Clases.Graph.Vertex;
@@ -17,10 +14,6 @@ import javax.swing.*;
 import java.util.*;
 import java.awt.image.BufferedImage;
 import java.awt.*;
-/**
- *
- * @author andre
- */
 
 public class ProyectoFinal extends javax.swing.JFrame {
     Auto auto;

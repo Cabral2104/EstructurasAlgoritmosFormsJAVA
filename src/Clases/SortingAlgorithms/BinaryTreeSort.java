@@ -1,13 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package Clases.SortingAlgorithms;
 import Clases.Nodes.BinaryTreeNode;
-/**
- *
- * @author andre
- */
+
 public class BinaryTreeSort {
     private BinaryTreeNode root;
     private int index = 0;

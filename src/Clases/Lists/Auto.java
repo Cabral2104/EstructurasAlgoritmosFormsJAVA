@@ -1,13 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package Clases.Lists;
 import java.util.Random;
-/**
- *
- * @author andre
- */
+
 public class Auto {
     public void autoAddSimpleList(SimpleList lista, Random random, javax.swing.JTextArea textArea, int numDatos) {
         for (int i = 0; i < numDatos; i++) {
